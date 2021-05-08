@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class ImprimeAntecessor {
     public void recebeNumero(){
         int numero;
